@@ -2,7 +2,7 @@
 
 #### Apresentação
 Esse repositório foi criado com o objetivo de organizar uma espécie de grupo de estudos sobre _Data Science_.\
-A estrutura como esses estudos foram pensados é: Estudo teórico sobre algoritmos ou linguagens e a aplicação em um _case_ para, assim, também criarmos um portifólio. 
+A estrutura como esses estudos foram pensados é: estudo teórico sobre algoritmos ou linguagens e a aplicação em um _case_ para, assim, também criarmos um portifólio. 
 
 #### Tópicos a serem estudados
 

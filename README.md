@@ -43,7 +43,7 @@ A estrutura como esses estudos foram pensados é: Estudo teórico sobre algoritm
 * https://towardsdatascience.com/30-python-best-practices-tips-and-tricks-caefb9f8c5f5
 * https://csgillespie.github.io/efficientR/index.html
 * http://adv-r.had.co.nz/ - Advanced R do Hadley Wickham
-* https://www.udacity.com/course/version-control-with-git--ud123 - Curso de Git Udacity grátis
+* https://www.udacity.com/course/version-control-with-git--ud123 - Curso de Git grátis da Udacity 
 
 
 

@@ -82,3 +82,6 @@ done. Terms of polymorphism are called overriding and overloading. \
 
 ###### **Fonte**
  https://www.indeed.com/career-advice/career-development/what-is-object-oriented-programming#:~:text=Object%2Doriented%20programming%20has%20four,basics%20of%20a%20computer%20program.
+
+###### **Vídeo**
+ https://www.youtube.com/watch?v=pTB0EiLXUC8
